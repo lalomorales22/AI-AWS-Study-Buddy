@@ -1,0 +1,26 @@
+# Virtual environment
+amazon_venv/
+
+# Files folder
+files/
+
+# Environment variables file
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (optional, but often helpful)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
