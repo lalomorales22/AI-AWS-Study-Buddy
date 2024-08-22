@@ -1,5 +1,7 @@
 # AWS Certification Prep Assistant
 
+![Screenshot 2024-08-21 at 8 31 43 PM](https://github.com/user-attachments/assets/64b943a0-ccde-4c1f-a7b6-89956cf34c71)
+
 ## Description
 
 The AWS Certification Prep Assistant is an interactive, AI-powered application designed to help students prepare for the AWS Certified Solutions Architect - Associate (SAA-C03) exam. This Streamlit-based app utilizes OpenAI's GPT models to provide personalized study sessions, quizzes, and in-depth explanations of AWS concepts and services.
