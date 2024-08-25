@@ -29,7 +29,7 @@ The AWS Certification Prep Assistant is an interactive, AI-powered application d
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/aws-cert-prep-assistant.git
+   git clone https://github.com/lalomorales22/AI-AWS-Study-Buddy.git
    cd aws-cert-prep-assistant
    ```
 
